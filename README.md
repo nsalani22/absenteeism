@@ -9,8 +9,8 @@ Final project for NYU Bayesian Inference class.
 
     .
     ├── analysis          # R scripts for model fitting and performance estimates
-    ├── data              # data and dictionary
+    ├── data              # Data and dictionary
     ├── stan              # Stan models 
-    ├── write up          # class final paper
+    ├── write up          # Class final paper
     └── README.md
 

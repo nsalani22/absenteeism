@@ -1,3 +1,4 @@
+
 # Bayesian analysis of absenteeism at work
 
 The analysis explores what individual and social-context attributes are strongly associated with absenteeism at work. 
